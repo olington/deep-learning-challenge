@@ -3,7 +3,7 @@ Challenge 21
 
 OVERVIEW
 
-The aim of this analysis is to develop a binary classifier through the application of deep learning methods, with the objective of predicting the success of organizations or entities funded by Alphabet Soup. The primary objective is to construct a model capable of accurately discerning whether the allocated funding resulted in success or not.
+The purpose of this analysis is to develop a binary classifier through the application of deep learning methods, with the objective of predicting the success of organizations or entities funded by Alphabet Soup. The primary objective is to construct a model capable of accurately discerning whether the allocated funding resulted in success or not.
 
 RESULTS
 1.	Data Preprocessing:
